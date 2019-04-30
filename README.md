@@ -1,2 +1,2 @@
-# STA1 44
+# STA 144
 Sampling Theory of Surveys
