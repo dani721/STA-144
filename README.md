@@ -16,5 +16,6 @@ Topic:
 
 ### Stratified Random Sampling
 
+[homework2](./homework_writeout.md)
 ### Ratio and Regression Estimation
 
