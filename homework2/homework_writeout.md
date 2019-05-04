@@ -1,1 +1,1 @@
-### Chapter 4
+### Chapter 3 Stratified Sampling
