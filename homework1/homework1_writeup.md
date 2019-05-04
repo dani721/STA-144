@@ -1,1 +1,3 @@
-## HOMEWORK 1 CHAPTER2
+## CHAPTER2 Simple Probability Samples
+
+
