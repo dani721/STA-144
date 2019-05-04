@@ -14,6 +14,7 @@ Topic:
 
 ### Simple Random Sampling
 
+[Homework1](/homework1/homework1_writeout.md)
 ### Stratified Random Sampling
 
 [Homework2](/homework2/homework_writeout.md)
